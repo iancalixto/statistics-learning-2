@@ -1,0 +1,12 @@
+# Statistisches Lernen 2 — notebooks (Python 3.11+)
+numpy>=1.26
+matplotlib>=3.8
+tqdm>=4.66
+
+# PyTorch (CPU on Apple Silicon; CUDA not used on Mac)
+torch>=2.2
+torchvision>=0.17
+
+# Jupyter / VS Code / Cursor
+jupyter>=1.0
+ipykernel>=6.29
