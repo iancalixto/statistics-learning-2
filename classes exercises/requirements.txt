@@ -7,4 +7,3 @@ torch>=2.2
 torchvision>=0.17
 # ipykernel is enough for Cursor/VS Code notebooks (full jupyter optional)
 ipykernel>=6.29
-# matplotlib>=3.8  # install manually if pip download fails: pip install matplotlib
